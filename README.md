@@ -1,6 +1,6 @@
-# Diyabet Tahmini - Karar Ağacı (Decision Tree)
+# Diyabet Tahmini - Decision Tree
 
-Bu proje, diyabet veri seti üzerinden "Tip-2 Diyabet" tahminlemesi yapmak amacıyla **Karar Ağacı (Decision Tree Classifier)** kullanılarak geliştirilmiştir.
+Bu proje, diyabet veri seti üzerinden "Tip-2 Diyabet" tahminlemesi yapmak amacıyla **Karar Ağacı (Decision Tree)** kullanılarak geliştirilmiştir.
 
 ## Kullanılan Model
 - **Algoritma**: Decision Tree Classifier (Gini Impurity, Max Depth: 5)
